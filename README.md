@@ -1,13 +1,13 @@
 # Autonomous Polymarket Bot
 
-> An AI-driven automated trading bot for Polymarket prediction markets, using Gemini Deep Research to identify mispriced low-probability events and sentiment-driven price swings.
+> An AI-driven automated trading bot for Polymarket prediction markets, using Gemini Deep Research or Claude Research to identify mispriced low-probability events and sentiment-driven price swings.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
 
 ---
 
-## ⚠️ Disclaimer / 免责声明
+## ⚠️ Disclaimer
 
 **READ CAREFULLY BEFORE USING THIS SOFTWARE.**
 
