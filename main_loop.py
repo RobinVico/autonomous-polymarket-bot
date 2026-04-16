@@ -150,7 +150,6 @@ class TradingBot:
         threading.Thread(target=lambda: app.run(host="0.0.0.0", port=5050, debug=False), daemon=True).start()
         log.info("Dashboard: http://localhost:5050")
 
-        # 不自动跑第一轮，等从Dashboard手动触发
         log.info("Waiting for manual trigger from Dashboard...")
 
         last_scan = time.time()
